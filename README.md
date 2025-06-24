@@ -1,4 +1,4 @@
-# 📝 MCP Note-Taking Assistant 
+# MCP Note-Taking Assistant 
 Video Demo - Click [Here](https://youtu.be/SFmixzeeESE)
 
 A lightweight, local AI-powered note-taking assistant built using the Model Context Protocol (MCP). This app allows users to **add**, **read**, **summarize**, and **manage** notes through conversational interactions with a local LLM-enabled interface like Cursor.
